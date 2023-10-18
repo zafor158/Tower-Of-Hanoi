@@ -30,7 +30,6 @@ This project provides a Java-based simulation of the Tower of Hanoi puzzle, allo
 
 - **Step-by-Step Visualization**: The project provides a clear visualization of each step in solving the puzzle, making it a valuable educational tool.
 
-## Getting Started
-To use or contribute to this project, follow the steps below:
+
 
 
