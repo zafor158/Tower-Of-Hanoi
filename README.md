@@ -7,12 +7,7 @@ A Python-based project that simulates the classic mathematical puzzle known as t
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Description
 The Tower of Hanoi is a classic puzzle that has been popular for centuries. It consists of three pegs and a set of disks with different sizes. The objective is to move all the disks from one peg to another while following these rules:
