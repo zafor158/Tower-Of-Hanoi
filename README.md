@@ -33,12 +33,4 @@ This project provides a Java-based simulation of the Tower of Hanoi puzzle, allo
 ## Getting Started
 To use or contribute to this project, follow the steps below:
 
-### Prerequisites
-- Java Development Kit (JDK) installed on your system.
-- An integrated development environment (IDE) for Java, such as IntelliJ IDEA or Eclipse.
 
-### Installation
-1. Clone this repository to your local machine:
-
-   ```sh
-   git clone https://github.com/yourusername/tower-of-hanoi.git
